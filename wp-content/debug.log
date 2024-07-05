@@ -1623,3 +1623,4 @@ CREATE TABLE wp_posts (
 [04-Jul-2024 08:17:19 UTC] E_WARNING: mysqli_real_connect(): (HY000/1045): Access denied for user 'watcher'@'localhost' (using password: YES) in C:\xampp\htdocs\staging_eknowledge\wp-includes\class-wpdb.php on line 1987
 [04-Jul-2024 08:17:19 UTC] E_WARNING: mysqli_real_connect(): (HY000/1045): Access denied for user 'watcher'@'localhost' (using password: YES) in C:\xampp\htdocs\staging_eknowledge\wp-includes\class-wpdb.php on line 1987
 [04-Jul-2024 08:17:19 UTC] E_WARNING: mysqli_real_connect(): (HY000/1045): Access denied for user 'watcher'@'localhost' (using password: YES) in C:\xampp\htdocs\staging_eknowledge\wp-includes\class-wpdb.php on line 1987
+[05-Jul-2024 06:33:41 UTC] E_WARNING: opendir(C:\xampp\htdocs\staging_eknowledge/wp-content/uploads/forminator/temp/): Failed to open directory: No such file or directory in C:\xampp\htdocs\staging_eknowledge\wp-content\plugins\forminator\library\class-form-fields.php on line 142

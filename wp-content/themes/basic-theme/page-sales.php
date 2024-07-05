@@ -138,7 +138,7 @@ if (strpos($_SERVER['REQUEST_URI'], '/login') !== false) {
 
 
     <!-- section article -->
-    <section class="page" class="mt-5">
+    <section class="page mt-5">
                     <div class=" container-fluid text-light container ">
                         <!-- Konten yang dihilangkan hanya ketika bukan halaman login -->
                         <h1 class=" p-0 text-start m-text">Most View</h1>

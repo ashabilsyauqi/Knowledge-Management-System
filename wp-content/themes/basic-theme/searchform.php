@@ -1,7 +1,7 @@
 <form role="search" style="width:70%;" class="d-flex flex-row" method="get" class="search-form" action="<?php echo esc_url(home_url('/')); ?>">
 
         <input type="search" style="height:40px;" class="search-field" placeholder="Your Favorite" value="<?php echo get_search_query(); ?>" name="s" required />
-        <button type="submit" style="height:40px;" class="border-white search-btn" >Search!</button>
+        <button type="submit" style="height:40px; margin:0 10px;" class="border-white search-btn" >Search!</button>
                         <div class="hamburger-menu">
                                 <div class="bar"></div>
                                 <div class="bar"></div>

@@ -50,6 +50,7 @@ if (strpos($_SERVER['REQUEST_URI'], '/login') !== false) {
             }
         ?>
     </div>
+    
     <section class="page">
         <div class="container-fluid text-light container">
             <h1 class="p-0 text-start m-text">Most View</h1>
